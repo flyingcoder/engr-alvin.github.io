@@ -1,0 +1,19 @@
+{
+  "name": "engr-alvin.github.io",
+  "version": "1.0.0",
+  "description": "Records contain in this repository is the truth, the whole truth and nothing but the truth, so help me God.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flyingcoder/engr-alvin.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flyingcoder/engr-alvin.github.io/issues"
+  },
+  "homepage": "https://github.com/flyingcoder/engr-alvin.github.io#readme"
+}

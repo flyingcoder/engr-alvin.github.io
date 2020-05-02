@@ -1,0 +1,20 @@
+<span id="a">engr-alvin@cool-mac</span>:<span id="b">~</span><span id="c">$</span> cd AlvinP/<!-- laglaglaglaglaglag -->About_Me
+<span id="a">engr-alvin@cool-mac</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->alvin.txt
+<p>Hello! My name is Alvin, I am a Web Application Developer.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
+<p>I specialized in building RestfulAPI using PHP with Laravel framework.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
+<p>I have been serving online businesses since 2011.</p><!-- longlonglongcomment --> I started as a Virtual Assistant then become an Internet Marketer skilled with SEO basics before 2014 when I teached myself Web Programming.<!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
+<p>As of today I already built or a part of building 20+ web applications projects.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
+<p>You can look into some of my work experiences and my contact details by following this <a href="https://alvin.pandaydigital.com/"> link</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
+<p>I love the feeling when I solve a complex problem and I tend to cling to that feeling by solving more problems.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
+<p>My day2day tools are: <br><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay--> <a href="https://www.apple.com/ph/macos/catalina/">MacOs</a>, <a href="https://www.php.net/">PHP</a>, <a href="https://vuejs.org/">Vuejs</a>, <a href="https://laravel.com/">Laravel</a>, <a href=”https://git-scm.com/”>Git</a>, <a href=”https://www.nginx.com/”>Nginx</a>, <a href=”https://github.com/”>Github</a>, <a href=”https://www.mysql.com/”>Mysql</a>, <a href=”https://www.navicat.com/en/”>Navicat</a>, <a href=”https://www.sublimetext.com/”>Sublime</a> and <a href=”https://laravel.com/docs/7.x/valet”>Valet</a>.
+</p>
+<p>Tools that I have used before: <br><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay--> <a href="https://www.elastic.co/">Elasticsearch</a>, <a href="https://vuetifyjs.com/en/">Vuetify</a>, <a href="https://expressjs.com/">ExpressJs</a>, <a href=”https://sass-lang.com/”>Sass</a>, <a href=”https://emmet.io/”>Emmet</a>, <a href=”https://jslint.com/”>Jslint</a>, <a href=”https://www.npmjs.com/”>Npm</a>, <a href=”https://momentjs.com/”>Moment</a>, <a href="https://www.atlassian.com/software/jira">Jira</a> and <a href="https://aws.amazon.com/">AWS</a>.
+</p>
+
+<!-- slightdelayhere-->Feel free to send me an email at <!-- longlonglongcomment --><a href="mailto:aepacot2016@gmail.com">aepacot2016@gmail.com</a>.
+
+<p>Thanks!</p>
+
+<span id="a">engr-alvin@cool-mac</span>:<span id="b">~</span><span id="c">$</span> sudo rm -rf .<!-- laglaglaglaglaglaglaglaglag -->
+.<!-- laglaglaglaglaglaglaglaglag -->.<!-- laglaglaglaglaglaglaglaglag -->.<!-- laglaglaglaglaglaglaglaglag -->.<!-- laglaglaglaglaglaglaglaglag --> deleting all data on your computer. <br> <span id="a">All files are now deleted!</span>
+<span id="a">engr-alvin@cool-mac</span>:<span id="b">~</span><span id="c">$</span> 
